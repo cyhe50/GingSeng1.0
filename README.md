@@ -2,7 +2,6 @@
 
 
 
-
 遊戲方法：利用對卡牌選擇的結果來影響人物數值，任一數值歸零或超標即結束遊戲，並獲得一種結局
 
 
@@ -21,3 +20,9 @@
 	餵食卡－與食物有關
 	
 	鬼牌-強迫進入結局
+	
+	
+	
+遊戲畫面：
+![image](https://github.com/cyhe50/GingSeng1.0/blob/master/frame.JPG)
+![image](https://github.com/cyhe50/GingSeng1.0/blob/master/frame2.JPG)
